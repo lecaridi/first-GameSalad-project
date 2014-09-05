@@ -16,6 +16,8 @@
     <table id="id517893" name="QQ Scoreboard">QQ Scoreboard</table>
     <table id="id613242" name="QQ Achievements">QQ Achievements</table>
     <table id="id454764" name="Purchases">Purchases</table>
+    <integer id="id380662" name="player helth">100</integer>
+    <integer id="id390137" name="boss health">100</integer>
   </attributes>
   <tags>template, tutorial, shmup</tags>
   <resolutionIndependence>0</resolutionIndependence>
@@ -38,6 +40,8 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id591440" />
     <actor id="id289207" />
     <actor id="id846875" />
+    <actor id="id787620" />
+    <actor id="id217738" />
   </prototypes>
   <plugins>
     <attributes id="kiip">
@@ -52,7 +56,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <attributes id="playhaven" />
   </plugins>
   <scenes>
-    <scene id="id269551" />
     <scene id="id781812" />
+    <scene id="id793070" />
   </scenes>
 </game>
