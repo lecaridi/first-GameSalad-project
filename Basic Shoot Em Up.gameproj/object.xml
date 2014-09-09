@@ -42,6 +42,12 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id846875" />
     <actor id="id787620" />
     <actor id="id217738" />
+    <actor id="id526868" />
+    <actor id="id733034" />
+    <actor id="id325167" />
+    <actor id="id379733" />
+    <actor id="id247662" />
+    <actor id="id843828" />
   </prototypes>
   <plugins>
     <attributes id="kiip">
@@ -56,7 +62,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <attributes id="playhaven" />
   </plugins>
   <scenes>
-    <scene id="id781812" />
     <scene id="id793070" />
+    <scene id="id781812" />
   </scenes>
 </game>
